@@ -6,6 +6,7 @@
     <OutputType>Exe</OutputType>
     <StartupObject></StartupObject>
     <AssemblyName>BladeConnect.API</AssemblyName>
+    <UserSecretsId>fef94110-9958-460c-acb7-d83f05986181</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
